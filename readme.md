@@ -33,6 +33,6 @@ I’m a passionate Software Development, UI/UX Designer, Analys System, Quality 
 ### 📈 GitHub 
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinfahru&hide=blade,css,html&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&bg_color=00000000" />
-  <img height="180em" src="####ttps://leetcard.jacoblin.cool/hellofahru?theme=catppuccinMocha&font=PT%20Mono" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabiilahPutriAfiifah&hide=blade,css,html&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&bg_color=00000000" />
+  <!-- <img height="180em" src="####ttps://leetcard.jacoblin.cool/hellofahru?theme=catppuccinMocha&font=PT%20Mono" /> -->
 </p>
